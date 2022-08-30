@@ -1,0 +1,21 @@
+mode: set
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:32.51,35.2 1 0
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:37.59,38.20 1 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:42.2,42.30 1 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:38.20,40.3 1 0
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:45.64,49.25 3 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:78.2,81.14 3 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:49.25,51.26 1 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:56.3,56.24 1 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:61.3,61.43 1 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:66.3,66.43 1 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:71.3,74.57 2 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:51.26,52.12 1 0
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:56.24,58.4 1 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:61.43,63.4 1 1
+github.com/mghifariyusuf/fita/cli/checkout/checkout.go:66.43,68.4 1 1
+github.com/mghifariyusuf/fita/cli/checkout/load_inventory.go:9.42,13.16 3 1
+github.com/mghifariyusuf/fita/cli/checkout/load_inventory.go:18.2,19.16 2 1
+github.com/mghifariyusuf/fita/cli/checkout/load_inventory.go:24.2,24.21 1 1
+github.com/mghifariyusuf/fita/cli/checkout/load_inventory.go:13.16,16.3 2 0
+github.com/mghifariyusuf/fita/cli/checkout/load_inventory.go:19.16,22.3 2 0

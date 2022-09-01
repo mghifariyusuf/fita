@@ -1,6 +1,8 @@
 package appointment
 
 import (
+	"fmt"
+
 	"github.com/spf13/cobra"
 )
 
@@ -11,5 +13,6 @@ var Cmd = &cobra.Command{
 }
 
 func run(cmd *cobra.Command, args []string) error {
+	fmt.Println(LoadData())
 	return nil
 }
